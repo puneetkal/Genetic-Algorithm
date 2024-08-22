@@ -9,6 +9,7 @@
 The Vehicle Routing Problem (VRP) Genetic Algorithm project is designed to find optimal routes for a vehicle to visit a set of locations, including a depot and several customers. This project leverages a Genetic Algorithm (GA) to solve the VRP and visualizes the best route using `matplotlib`.
 
 ![Example Route](https://github.com/yourusername/vrp-genetic-algo/blob/main/docs/example-route.png?raw=true)
+![Image1](https://github.com/user-attachments/assets/97390b6c-ea63-41c5-b113-5c1559d659e1)
 
 ## Coding Explanation
 1. Setup Locations
@@ -38,6 +39,8 @@ The best route found by the genetic algorithm is visualized using a plotting lib
 
 5. Running the Algorithm
 To find and visualize the best route, you can adjust parameters such as the size of the population, the number of generations, and the size of the elite group. The algorithm is run with these parameters, and the results are printed and visualized, showing the most efficient route and its total distance.
+![Image2](https://github.com/user-attachments/assets/851e9858-3a34-48c3-a444-079d7ce19025)
+
 ## Related Papers
 
 - [A Comprehensive Review of the Vehicle Routing Problem and Its Variants](https://arxiv.org/abs/2401.06379)
